@@ -1,0 +1,9 @@
+*.bin
+*.elf
+*.hex
+*.pyc
+*.swp
+.DS_Store
+build/
+.pio/
+.vscode/
